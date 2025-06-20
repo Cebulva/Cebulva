@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Olaf! <br/><a href="https://github.com/cebulva">Data-Scientist</a>, <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
+
+<h2>👨‍💻 Data Science Projects:</h2>
+
+- <b>SQL</b>
+  - [Praciting SQL](https://github.com/Cebulva/sql_practicing/)
+  - [Data Driven Business with SQL](Fillout)
+- <b>Python</b>
+  - [Fill out (Fill Out)](FillOut)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="OlafBulas | LinkedIn" width="50px" src="https://github.com/Cebulva/assets/blob/main/linkedin-logo.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/olaf-bulas/
 
 <!--
-**Cebulva/Cebulva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
