@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>SQL</b>
-  - [Praciting SQL](https://github.com/Cebulva/sql_practicing/)
-  - [Data Driven Business with SQL](Fillout)
+- <b>SQL & Tableau</b>
+  - [Praciting SQL](https://github.com/Cebulva/sql_practicing/) (SQL)
+  - [Market Expansion Data Study](https://github.com/Cebulva/market-expansion-data-study) (SQL, Tableau)
 - <b>Python</b>
   - [Fill out (Fill Out)](FillOut)
 
