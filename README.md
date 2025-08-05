@@ -6,7 +6,7 @@
   - [Praciting SQL](https://github.com/Cebulva/sql_practicing/) (SQL)
   - [Market Expansion Data Study](https://github.com/Cebulva/market-expansion-data-study) (SQL, Tableau)
 - <b>Python</b>
-  - [Fill out (Fill Out)](FillOut)
+  - [Praciting Python](https://github.com/Cebulva/python_practicing/) (Python)
 
 <h2> 🤳 Connect with me:</h2>
 
