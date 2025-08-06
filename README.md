@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olaf! <br/><a href="https://github.com/cebulva">Data-Scientist</a>, <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
+<h1>Hi, I'm Olaf! <br/>Data-Scientist & Analyst, <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
