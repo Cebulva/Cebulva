@@ -1,12 +1,17 @@
 <h1>Hi, I'm Olaf! <br/><a href="https://github.com/cebulva">Data-Scientist</a>, <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>SQL & Tableau</b>
-  - [Praciting SQL](https://github.com/Cebulva/sql_practicing/) (SQL)
-  - [Market Expansion Data Study](https://github.com/Cebulva/market-expansion-data-study) (SQL, Tableau)
-- <b>Python</b>
-  - [Praciting Python](https://github.com/Cebulva/python_practicing/) (Python)
+<h3>Data Analysis</h3>
+
+- [<b>Praciting SQL</b>](https://github.com/Cebulva/sql_practicing/)
+  - (SQL)
+- [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
+  - (SQL, Tableau)
+- [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
+  - (Google Sheets, BigQuery - Data Warehouse, SQL, Looker Studio)
+- [<b>Praciting Python</b>](https://github.com/Cebulva/python_practicing/)
+  - (Python)
 
 <h2> 🤳 Connect with me:</h2>
 
