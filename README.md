@@ -4,13 +4,13 @@
 
 <h3>Data Analysis</h3>
 
-- [<b>Praciting SQL</b>](https://github.com/Cebulva/sql_practicing/)
+- [<b>Practicing SQL</b>](https://github.com/Cebulva/sql_practicing/)
   - (SQL)
 - [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
   - (SQL, Tableau)
 - [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
   - (Google Sheets, BigQuery - Data Warehouse, SQL, Looker Studio)
-- [<b>Praciting Python</b>](https://github.com/Cebulva/python_practicing/)
+- [<b>Practicing Python</b>](https://github.com/Cebulva/python_practicing/)
   - (Python)
 
 <h2> 🤳 Connect with me:</h2>
