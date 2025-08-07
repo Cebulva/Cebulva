@@ -25,6 +25,8 @@ These projects are from my current course. Check them out to see my new skills i
 
 - [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
   - (SQL, Tableau)
+- [<b>Discount Strategy</b>](https://github.com/Cebulva/discount_strategy)
+  - (Python, Pandas, Seaborn)
 - [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
   - (Google Sheets, BigQuery - Data Warehouse, SQL, Looker Studio)
 
