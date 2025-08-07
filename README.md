@@ -1,5 +1,13 @@
 <h1>Hi, I'm Olaf! <br/>Data-Scientist & Analyst, <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
 
+<h2>🫆 About Me:</h2>
+
+After 9+ years as a Senior Game Dev, I'm making the move into the world of Data Science.
+Currently, I’m completing a 1-year Data Science & AI program at WBS Coding School, where I’ve built hands-on projects in Python, SQL, Tableau, BigQuery, and cloud computing.
+
+It turns out that thinking about game systems is a great way to break down tricky data problems and find useful patterns. 
+These projects are from my current course. Check them out to see my new skills in action!
+
 <h2>👨‍💻 Projects:</h2>
 
 <h3>Data Analysis</h3>
