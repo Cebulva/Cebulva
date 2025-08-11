@@ -29,7 +29,10 @@ These projects are from my current course. Check them out to see my new skills i
   - (Python, Pandas, Seaborn)
 - [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
   - (Google Sheets, BigQuery - Data Warehouse, SQL, Looker Studio)
+- [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
+  - (Python, SQL, CRUD, MySQL, SQLAlchemy, Streamlit)
 
+---
 
 <h2> 🤳 Connect with me:</h2>
 
