@@ -32,6 +32,11 @@ These projects are from my current course. Check them out to see my new skills i
 - [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
   - (Python, SQL, CRUD, MySQL, SQLAlchemy, Streamlit)
 
+<h3>Data Engineer</h3>
+
+- [<b>Bee Haven: An Azure Data Pipeline Project</b>](https://github.com/Cebulva/bee-haven-azure-data-pipeline)
+  - (Azure, Data Lake, ETL, Data Factory, Synapse, Python)
+
 ---
 
 <h2> 🤳 Connect with me:</h2>
