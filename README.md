@@ -44,6 +44,7 @@ These projects are from my current course. Check them out to see my new skills i
   </details>
 
 - [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
+  - A strategic market expansion study utilizing SQL and Tableau to evaluate partnership feasibility with Magist through data-driven analysis of tech sector revenue and order volume.
   - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   - <details>
     <summary><b>Features</b></summary>
@@ -58,6 +59,7 @@ These projects are from my current course. Check them out to see my new skills i
     </details>
 
 - [<b>Discount Strategy</b>](https://github.com/Cebulva/discount_strategy)
+  - Evaluating discount strategy impact using Python to transform messy e-commerce data into strategic business insights.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge&logo=python&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   - <details>
     <summary><b>Features</b></summary>
@@ -72,6 +74,7 @@ These projects are from my current course. Check them out to see my new skills i
     </details>
 
 - [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
+  - Engineering a scalable analytical framework that transforms raw data into an interactive KPI dashboard using BigQuery and Looker Studio.
   - ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
   - <details>
     <summary><b>Features</b></summary>
@@ -85,6 +88,7 @@ These projects are from my current course. Check them out to see my new skills i
     </details>
 
 - [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
+  - Developing a full-stack library management application with Streamlit and SQL, featuring complete CRUD functionality and a normalized database architecture.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
   - <details>
     <summary><b>Features</b></summary>
@@ -102,6 +106,7 @@ These projects are from my current course. Check them out to see my new skills i
 <h3>Data Engineer</h3>
 
 - [<b>Bee Haven: An Azure Data Pipeline Project</b>](https://github.com/Cebulva/bee-haven-azure-data-pipeline)
+  - Engineering an automated Azure data lakehouse using a Medallion architecture to orchestrate multi-stage ETL pipelines and API integrations for scalable analytics.
   - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - <details>
     <summary><b>Features</b></summary>
@@ -117,7 +122,7 @@ These projects are from my current course. Check them out to see my new skills i
     </details>
 ---
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 
 
 [<img align="left" alt="OlafBulas | LinkedIn" width="50px" src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" />][linkedin]
 
