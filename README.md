@@ -28,24 +28,12 @@ These projects are from my current course. Check them out to see my new skills i
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
----
-
 <h1>👨‍💻 Projects</h1>
 
-<h2>Data Analytics</h2>
+<details>
+  <summary><h2>Data Analytics</h2></summary>
 
-  <details>
-  <summary>Practicing SQL & Python</summary>
-  <br>
-  
-  - [<b>Data Querying & Analysis Skills</b>](https://github.com/Cebulva/sql_practicing/)
-    - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  - [<b>Python Fundamentals & Problem-Solving</b>](https://github.com/Cebulva/python_practicing/)
-    - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-  <br>
-  </details>
-
-### [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
+## [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
   - A strategic market expansion study utilizing SQL and Tableau to evaluate partnership feasibility with Magist through data-driven analysis of tech sector revenue and order volume.
   - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   - <details>
@@ -60,7 +48,7 @@ These projects are from my current course. Check them out to see my new skills i
     <br>
     </details>
 
-### [<b>Discount Strategy</b>](https://github.com/Cebulva/discount_strategy)
+## [<b>Discount Strategy</b>](https://github.com/Cebulva/discount_strategy)
   - Evaluating discount strategy impact using Python to transform messy e-commerce data into strategic business insights.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge&logo=python&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   - <details>
@@ -75,7 +63,7 @@ These projects are from my current course. Check them out to see my new skills i
     <br>
     </details>
 
-### [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
+## [<b>Business KPI Dashboard</b>](https://github.com/Cebulva/business-kpi-dashboard)
   - Engineering a scalable analytical framework that transforms raw data into an interactive KPI dashboard using BigQuery and Looker Studio.
   - ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
   - <details>
@@ -88,8 +76,12 @@ These projects are from my current course. Check them out to see my new skills i
     - <b>Data Storytelling</b>: Focuses on building visuals that tell a clear story, ensuring insights are accessible to stakeholders without a technical background.
     <br>
     </details>
+</details>
 
-<h2>Data Engineering & Apps</h2>
+---
+
+<details>
+  <summary><h2>Data Engineering & Apps</h2></summary>
 
 ### [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
   - Developing a full-stack library management application with Streamlit and SQL, featuring complete CRUD functionality and a normalized database architecture.
@@ -122,6 +114,8 @@ These projects are from my current course. Check them out to see my new skills i
     - <b>Cloud Infrastructure and Security</b>: The project required setting up a logical resource group and managing access with Role-Based Access Control (RBAC).
     <br>
     </details>
+</details>
+
 ---
 
 <h2> 🤳 Connect with me:</h2> 
