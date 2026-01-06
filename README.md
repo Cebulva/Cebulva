@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olaf! <br/>Data-Scientist & Analyst, <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
+<h1>Hi, I'm Olaf! <br/>Data-Scientist & <a href="https://docs.google.com/presentation/d/1rkZS3UCvsuwIxiSi7_PR07cwM1DuS3tJgaNGFve4ku8/edit?usp=sharing">Game Developer</a>
 
 <h2>🫆 About Me</h2>
 
@@ -28,9 +28,11 @@ These projects are from my current course. Check them out to see my new skills i
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
+---
+
 <h2>👨‍💻 Projects</h2>
 
-<h3>Data Analysis</h3>
+<h3>Data Analytics</h3>
 
 - <details>
   <summary>Practicing SQL & Python</summary>
@@ -87,6 +89,8 @@ These projects are from my current course. Check them out to see my new skills i
     <br>
     </details>
 
+<h3>Data Engineering & Apps</h3>
+
 - [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
   - Developing a full-stack library management application with Streamlit and SQL, featuring complete CRUD functionality and a normalized database architecture.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -102,8 +106,6 @@ These projects are from my current course. Check them out to see my new skills i
     - <b>Comprehensive Documentation</b>: The project's design, schema, and app workflow are fully documented on a Miro board.
     <br>
     </details>
-
-<h3>Data Engineer</h3>
 
 - [<b>Bee Haven: An Azure Data Pipeline Project</b>](https://github.com/Cebulva/bee-haven-azure-data-pipeline)
   - Engineering an automated Azure data lakehouse using a Medallion architecture to orchestrate multi-stage ETL pipelines and API integrations for scalable analytics.
