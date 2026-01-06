@@ -31,13 +31,13 @@ These projects are from my current course. Check them out to see my new skills i
 <h1>👨‍💻 Projects</h1>
 
 <details>
-  <summary><h2>Data Analytics</h2></summary>
+  <summary><h2>👇 Data Analytics</h2></summary>
 
 ## [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
   - A strategic market expansion study utilizing SQL and Tableau to evaluate partnership feasibility with Magist through data-driven analysis of tech sector revenue and order volume.
   - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   - <details>
-    <summary><b>Features</b></summary>
+    <summary><b>👇 Features</b></summary>
     
     - <b>Real-World Business Challenge</b>: Deals with a sometimes unclear business situation.
     - <b>SQL Analysis</b>: Shows how I prepared and analyzed data using SQL to find important information.
@@ -52,7 +52,7 @@ These projects are from my current course. Check them out to see my new skills i
   - Evaluating discount strategy impact using Python to transform messy e-commerce data into strategic business insights.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge&logo=python&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   - <details>
-    <summary><b>Features</b></summary>
+    <summary><b>👇 Features</b></summary>
     
     - <b>Business-Oriented Problem-Solving</b>: Addresses a core business question with conflicting opinions from different stakeholders (Marketing vs. Board).
     - <b>Data Cleaning & Quality Skills</b>: Focuses on the crucial initial step of data analytics—transforming messy, inconsistent data into a usable format.
@@ -67,7 +67,7 @@ These projects are from my current course. Check them out to see my new skills i
   - Engineering a scalable analytical framework that transforms raw data into an interactive KPI dashboard using BigQuery and Looker Studio.
   - ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
   - <details>
-    <summary><b>Features</b></summary>
+    <summary><b>👇 Features</b></summary>
     
     - <b>Business-Insights</b>: Demonstrates an understanding of business goals and the ability to identify relevant Key Performance Indicators (KPIs) from raw data.
     - <b>Full Analytical Workflow</b>: Highlights a complete process from initial data exploration and cleaning to modeling, querying, and final visualization.
@@ -81,13 +81,13 @@ These projects are from my current course. Check them out to see my new skills i
 ---
 
 <details>
-  <summary><h2>Data Engineering & Apps</h2></summary>
+  <summary><h2>👇 Data Engineering & Apps</h2></summary>
 
 ### [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
   - Developing a full-stack library management application with Streamlit and SQL, featuring complete CRUD functionality and a normalized database architecture.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
   - <details>
-    <summary><b>Features</b></summary>
+    <summary><b>👇 Features</b></summary>
     
     - <b>Full CRUD Operations</b>: The application fully supports the creation, reading, updating, and deleting of data, demonstrating full database management.
     - <b>End-to-End Development</b>: Documents a complete project workflow from initial idea to a deployed, interactive application.
@@ -103,7 +103,7 @@ These projects are from my current course. Check them out to see my new skills i
   - Engineering an automated Azure data lakehouse using a Medallion architecture to orchestrate multi-stage ETL pipelines and API integrations for scalable analytics.
   - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - <details>
-    <summary><b>Features</b></summary>
+    <summary><b>👇 Features</b></summary>
     
     - <b>End-to-End Data Pipeline</b>: Demonstrates a complete data workflow from ingestion of raw CSV files to the final prepared dataset.
     - <b>Hands-On Azure Experience</b>: Documents the practical use of key Azure services like Data Lake Storage Gen2, Data Factory, and Synapse Analytics.
