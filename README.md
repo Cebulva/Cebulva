@@ -31,8 +31,7 @@ These projects are from my current course. Check them out to see my new skills i
 
 <h1>👨‍💻 Projects</h1>
 
-<details>
-  <summary><h2>👇 Data Analytics</h2></summary>
+<h2>Data Analytics</h2>
 
 ## [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
   - A strategic market expansion study utilizing SQL and Tableau to evaluate partnership feasibility with Magist through data-driven analysis of tech sector revenue and order volume.
@@ -81,8 +80,7 @@ These projects are from my current course. Check them out to see my new skills i
 
 ---
 
-<details>
-  <summary><h2>👇 Data Engineering & Apps</h2></summary>
+<h2>Data Engineering & Apps</h2>
 
 ### [<b>Streamlit SQL Library App</b>](https://github.com/Cebulva/streamlit_sql_library_app/)
   - Developing a full-stack library management application with Streamlit and SQL, featuring complete CRUD functionality and a normalized database architecture.
@@ -115,7 +113,6 @@ These projects are from my current course. Check them out to see my new skills i
     - <b>Cloud Infrastructure and Security</b>: The project required setting up a logical resource group and managing access with Role-Based Access Control (RBAC).
     <br>
     </details>
-</details>
 
 ---
 
