@@ -21,6 +21,7 @@ These projects are from my current course. Check them out to see my new skills i
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -48,8 +49,23 @@ These projects are from my current course. Check them out to see my new skills i
     <br>
     </details>
 
+## [<b>Custom RAG-Based Knowledge Specialist</b>](https://github.com/Cebulva/rag_strategy_guide)
+  - A performant Retrieval-Augmented Generation (RAG) pipeline that transforms general-purpose LLMs into domain-specific experts. This project implements a full indexing and retrieval lifecycle, grounding model responses in private datasets to eliminate hallucinations and provide verifiable, fact-based answers.
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  - <details>
+    <summary><b>👇 Features</b></summary>
+    
+    - <b>End-to-End RAG Architecture</b>: Built a three-pillar system (Indexing, Retrieval, And Generation) using **LlamaIndex** to connect a generative LLM to a custom, searchable document library.
+    - <b>Optimized Indexing Pipeline</b>: Engineered a data ingestion strategy involving document $chunking$ with strategic $overlap$ to preserve semantic context across boundaries and maximize retrieval accuracy.
+    - <b>Semantic Vector Search</b>: Implemented high-dimensional text embeddings to map document meaning into a vector space, allowing the system to find relevant information based on conceptual similarity rather than simple keyword matching.
+    - <b>Two-Stage Retrieval (Reranking)</b>: Boosted precision by implementing a "Broad Retrieval + Precise Reranking" workflow, using cross-encoders to filter and re-order candidate chunks for the generator.
+    - <b>Rigorous Ragas Evaluation</b>: Validated system performance using a data-driven framework to measure **Context Precision**, **Context Recall**, and **Faithfulness**, ensuring the bot remains grounded in the provided source truth.
+    - <b>Conversational Memory Management</b>: Implemented stateful chat engines (Buffering And Condense-Question) to maintain context over multi-turn dialogues while managing the model's context window constraints.
+    <br>
+    </details>
+
 ## [<b>Sign Vision</b>]()
-  - Developing a Convolutional Neural Network (CNN) to recognize hand signs for letters in German Sign Language (DGS). The project implements advanced computer vision techniques like image augmentation and L2 regularization to ensure the model generalizes across diverse backgrounds and skin tones.
+  - Developed a Convolutional Neural Network (CNN) to recognize hand signs for letters in German Sign Language (DGS). The project implements advanced computer vision techniques like image augmentation and L2 regularization to ensure the model generalizes across diverse backgrounds and skin tones.
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   - <details>
     <summary><b>👇 Features</b></summary>
