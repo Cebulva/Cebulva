@@ -22,6 +22,8 @@ These projects are from my current course. Check them out to see my new skills i
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A42C1?style=for-the-badge&logo=llamaindex&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-EB4132?style=for-the-badge)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -51,7 +53,7 @@ These projects are from my current course. Check them out to see my new skills i
 
 ## [<b>Custom RAG-Based Knowledge Specialist</b>](https://github.com/Cebulva/rag_strategy_guide)
   - A performant Retrieval-Augmented Generation (RAG) pipeline that transforms general-purpose LLMs into domain-specific experts. This project implements a full indexing and retrieval lifecycle, grounding model responses in private datasets to eliminate hallucinations and provide verifiable, fact-based answers.
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A42C1?style=for-the-badge&logo=llamaindex&logoColor=white) ![Ragas](https://img.shields.io/badge/Ragas-EB4132?style=for-the-badge)
   - <details>
     <summary><b>👇 Features</b></summary>
     
