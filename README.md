@@ -31,6 +31,25 @@ These projects are from my current course. Check them out to see my new skills i
 
 <h1>👨‍💻 Projects</h1>
 
+<h2>Machine Learning & AI-Engineering</h2>
+
+## [<b>Solar Sight</b>](https://github.com/Cebulva/rooftop-solar-analysis-ml-pvlib)
+  - An end-to-end pipeline using Computer Vision to detect rooftops, analyze geometry, and generate precise solar energy production reports.
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - <details>
+    <summary><b>👇 Features</b></summary>
+    
+    - <b>AI-Powered Rooftop Extraction</b>: Uses a custom-trained U-Net model to segment roof structures from high-resolution satellite imagery.
+    - <b>Geometric Vectorization And Analysis</b>: Converts raw AI pixel masks into clean polygons to calculate precise roof area and orientation (azimuth).
+    - <b>Intelligent Noise Suppression</b>: Implements advanced geometric and spatial filtering to distinguish target rooftops from streets, sidewalks, and neighboring structures.
+    - <b>Human-in-the-Loop Refinement</b>: Integrated Streamlit dashboard allowing users to manually adjust AI-generated vectors for 100% accuracy.
+    - <b>Solar Energy Yield Modeling</b>: Generates detailed reports on annual energy production (kWh), CO2 savings, and optimal panel placement based on roof geometry.
+    <br>
+    </details>
+</details>
+
+---
+
 <h2>Data Analytics</h2>
 
 ## [<b>Market Expansion Data Study</b>](https://github.com/Cebulva/market-expansion-data-study)
