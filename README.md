@@ -20,6 +20,7 @@ These projects are from my current course. Check them out to see my new skills i
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -31,11 +32,11 @@ These projects are from my current course. Check them out to see my new skills i
 
 <h1>👨‍💻 Projects</h1>
 
-<h2>Machine Learning & AI-Engineering</h2>
+<h2>Computer Vision & AI-Engineering</h2>
 
 ## [<b>Solar Sight</b>](https://github.com/Cebulva/rooftop-solar-analysis-ml-pvlib)
   - An end-to-end pipeline using Computer Vision to detect rooftops, analyze geometry, and generate precise solar energy production reports.
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   - <details>
     <summary><b>👇 Features</b></summary>
     
@@ -44,6 +45,21 @@ These projects are from my current course. Check them out to see my new skills i
     - <b>Intelligent Noise Suppression</b>: Implements advanced geometric and spatial filtering to distinguish target rooftops from streets, sidewalks, and neighboring structures.
     - <b>Human-in-the-Loop Refinement</b>: Integrated Streamlit dashboard allowing users to manually adjust AI-generated vectors for 100% accuracy.
     - <b>Solar Energy Yield Modeling</b>: Generates detailed reports on annual energy production (kWh), CO2 savings, and optimal panel placement based on roof geometry.
+    <br>
+    </details>
+
+## [<b>Sign Vision</b>]()
+  - Developing a Convolutional Neural Network (CNN) to recognize hand signs for letters in German Sign Language (DGS). The project implements advanced computer vision techniques like image augmentation and L2 regularization to ensure the model generalizes across diverse backgrounds and skin tones.
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  - <details>
+    <summary><b>👇 Features</b></summary>
+    
+    - <b>Crowdsourced Data Engineering</b>: Pooled and labeled a diverse image dataset from multiple contributors, increasing the training sample size and improving the model's ability to generalize across different hand shapes and skin tones.
+    - <b>Custom CNN Architecture</b>: Engineered a multi-layer Convolutional Neural Network (CNN) specifically for image classification, optimizing filter sizes and pooling layers to extract essential geometric features of hand signs.
+    - <b>On-the-Fly Image Augmentation</b>: Integrated Keras preprocessing layers to apply random rotations, flips, and zooms during training, artificially expanding the dataset to reduce overfitting.
+    - <b>Robust Regularization And Optimization</b>: Implemented L2 Weight Decay (AdamW) and Dropout layers to penalize overly complex weights, ensuring a balanced model that performs reliably on unseen data.
+    - <b>Environmental Invariance Training</b>: Strategically introduced diverse backgrounds and varied lighting conditions to train the model to focus on hand-shape geometry rather than the surrounding environment.
+    - <b>Iterative Performance Tuning</b>: Utilized callbacks like EarlyStopping and ModelCheckpoint to automatically save the highest-performing model and prevent training degradation.
     <br>
     </details>
 </details>
